@@ -78,7 +78,7 @@ function App() {
     return (
       <div className="app">
         <div className="error">
-          <h1>🐕 Dog Breeds Explorer Para Twister</h1>
+          <h1>🐕 Dog Breeds Explorer Para Twisterito</h1>
           <p>Oops! Something went wrong: {error}</p>
           <button onClick={fetchBreeds}>Try Again</button>
         </div>
