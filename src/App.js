@@ -91,7 +91,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🐕 Dog Breeds Explorer para Twister</h1>
+        <h1>🐕 Dog Breeds Explorer para Twisterito</h1>
         <p>Discover {Object.keys(breeds).length} amazing dog breeds</p>
       </header>
 
